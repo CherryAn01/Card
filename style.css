@@ -1,0 +1,53 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card {
+    background-color: rgb(240, 240, 240);
+    border: 2px solid;
+    width: 360px;
+    height: 370px;
+    border-radius: 25px;
+}
+
+.card-holder {
+    font-size: 48px;
+    font-style: bold;
+    text-align: center;
+}
+
+.card-h {
+    font-size: medium;
+    text-align: center;
+}
+
+.card-o {
+    color: gray;
+    text-align: center;
+}
+
+.list {
+    color: gray;
+    margin: 20px;
+    line-height: 30px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(174, 125, 219);
+    padding: 15px 120px;
+    border-radius: 15px;
+    margin: 20px ;
+}
+
+.button:hover {
+    background-color: rgb(101, 56, 144);
+}
+ 
+.btm {
+    text-align: center;
+    bottom: 20px;
+}
